@@ -28,5 +28,6 @@ jobs:
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "🐍 generate snake animation"
+          message: " generate heart emoji"
           add: "dist/**"
+
